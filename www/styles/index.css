@@ -20,7 +20,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
+    text-align: center;
     height: 100vh;
     
 }
@@ -34,7 +34,7 @@ body {
     flex-direction: column;
     background-color: #fff;
     width: 50%;
-    height: 50%;
+    min-height: 50%;
     border-radius: 30px;
     padding: 40px;
 
