@@ -27,3 +27,7 @@ Vi skal gøre det muligt via:
 1. Slette et subscriber
 2. Ændre deres "validated" true/false.
 3. Sorterer dem i henholdsvis "validated" / "!validated".
+
+# Design er "frit"
+
+Men tag gerne udgangspunkt i det design der er tilføjet figma.
