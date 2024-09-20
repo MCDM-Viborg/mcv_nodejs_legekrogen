@@ -34,3 +34,19 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Public Assets
+/public/products/*
+!/public/products/001.jpg
+!/public/products/002.jpg
+!/public/products/003.jpg
+!/public/products/004.jpg
+!/public/products/005.jpg
+!/public/products/006.jpg
+!/public/products/no-product.jpg
+
+/public/reviews/*
+!/public/reviews/no-review.jpg
+
+/public/users/*
+!/public/users/no-users.jpg
