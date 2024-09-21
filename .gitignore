@@ -50,3 +50,10 @@ next-env.d.ts
 
 /public/users/*
 !/public/users/no-users.jpg
+
+# Poc and solution content
+/poc/*
+/preview/*
+
+!/poc/placeholder.html
+!/preview/placeholder.html
