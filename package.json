@@ -6,8 +6,7 @@
   "type": "module",
   "scripts": {
     "Start Server": "nodemon index",
-    "Opret Database": "node -r dotenv/config ./lib/db/mcv/mcv.js",
-    "server-production": "webpack --env production --mode production --config webpack.config.js"
+    "Opret Database": "node -r dotenv/config ./lib/db/mcv/mcv.js"
   },
   "keywords": [],
   "dependencies": {
