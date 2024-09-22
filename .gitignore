@@ -49,7 +49,7 @@ next-env.d.ts
 !/public/reviews/no-review.jpg
 
 /public/users/*
-!/public/users/no-users.jpg
+!/public/users/no-user.jpg
 
 # Poc and solution content
 /poc/*
